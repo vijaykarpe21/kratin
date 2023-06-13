@@ -1,0 +1,43 @@
+PROJECT DESCRIPTION=>
+
+NAME=>Karpe Vijay Jayram
+
+Technology Used=>ReactJs
+
+This application is made so that we can help our old society to be healthy and to live long better life.
+
+1)1st page is login page any one can login.
+
+2) as we login more option are there like 
+
+A)Doctors appointement
+B)Ambulance Booking
+C)Daily exercises
+D)Daily food
+F)Diseases Information
+G)Happy Thoughts
+
+3)By click on every option it will information about relevant field.
+
+4)Doctors appointement=> we can book our appointement online.
+
+5)Ambulance Booking=> here we one can book amulance in case any emergency.
+
+6)Daily exercises=> Here one can get information about various exercises that can be done in daily routine to be healthy.
+
+7)Daily food=>Here one can get information about various foods that can be consumedin  daily routine to be healthy.
+
+8)Diseases Information=> one can get infomation about various diseases here so that by reading symtoms one can relate or can get more information and proper treatment from Doctor
+
+9)Happy Thoughts=> Here one more option is is given to read happy and motivated thoughts can be provided to loved ones so that they will be happy and more happy more healthy.
+
+10)Daily exercises=>Daily exercises is more further move to more options of exercises so that one can read onfo or can choose from option which is suitable to do 
+options are like 
+
+A)Pranayama
+B)Yogasana
+C)Exercises
+D)Meditation 
+
+
+I have thought from all the views so that we can help old ones to be young for  more years and do to time limitation i have not reach to the more details but you can guess the scope from this screenshots are attached with this description.
